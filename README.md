@@ -3,7 +3,7 @@
 
 ![image](https://github.com/cxnaive/USB2CAN_cx/blob/master/pics/img.jpg)
 
-(图片为初始版本，现repo版本增加了CC脚电阻、ESD静电保护和电脑5V保护，优化了差分走线，过孔盖油)
+(图片为初始版本，本仓库版本增加了CC脚电阻、ESD静电保护和电脑5V保护，优化了差分走线，过孔盖油)
 
 
 **具体应用参照：**
