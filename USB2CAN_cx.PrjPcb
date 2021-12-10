@@ -96,66 +96,70 @@ DocumentPath=Project Outputs for USB2CAN_cx\Design Rule Check - USB2CAN.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN-RoundHoles.TXT
+DocumentPath=Project Outputs for USB2CAN_cx\Net Status - USB2CAN.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN-SlotHoles.TXT
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.DRR
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.EXTREP
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GBL
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GBO
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GBP
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GBS
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GM1
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GTL
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GTO
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GTP
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GTS
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.LDP
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.REP
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for USB2CAN_cx\USB2CAN.RUL
 DItemRevisionGUID=
 

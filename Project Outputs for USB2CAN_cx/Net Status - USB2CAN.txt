@@ -1,0 +1,24 @@
+Net Status Report
+Filename     : E:\PCB\USB2CAN_cx\USB2CAN.PcbDoc
+Date         : 2021/12/10
+Time         : 17:09:30
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3V3, Signal Layers Only, 87.3863mm
+    5V, Signal Layers Only, 39.8686mm
+    5V_RAW, Signal Layers Only, 21.6208mm
+    CAN_N, Signal Layers Only, 16.2565mm
+    CAN_P, Signal Layers Only, 16.2565mm
+    CAN_RX, Signal Layers Only, 5.2829mm
+    CAN_TX, Signal Layers Only, 8.3566mm
+    GND, Signal Layers Only, 3.2711mm
+    NRST, Signal Layers Only, 5.423mm
+    NetR1_1, Signal Layers Only, 3.8536mm
+    NetR5_1, Signal Layers Only, 1.6824mm
+    NetR6_2, Signal Layers Only, 1.8377mm
+    SWCLK, Signal Layers Only, 11.7968mm
+    SWDIO, Signal Layers Only, 17.7418mm
+    USB_N, Signal Layers Only, 31.8274mm
+    USB_P, Signal Layers Only, 31.8275mm
+count : 16
