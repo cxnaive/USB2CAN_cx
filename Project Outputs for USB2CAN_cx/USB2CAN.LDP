@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\PCB\USB2CAN_cx\USB2CAN.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usb2can-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usb2can-slotholes.txt|DrillLayers=gtl,gbl

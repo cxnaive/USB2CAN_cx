@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB2CAN.PcbDoc   2021/12/7  11:00:14
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB2CAN-RoundHoles.TXT
+ASCII SlotHoles File : USB2CAN-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             41        PTH        175.28mm (6.90inch)
+T2      0.8mm (31mil)                                             Slot              4         PTH        36.10mm (1.42inch)
+T3      0.9mm (35mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T4      0.7mm (28mil)                                             Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              51
+
+Total Processing Time (hh:mm:ss) : 00:00:00
