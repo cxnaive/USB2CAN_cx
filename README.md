@@ -10,3 +10,8 @@ https://github.com/rm-controls/rm_usb2can/blob/main/README_CN.md
 直接使用JFlash工具烧录firmware.bin至单片机即可，线序参考下图：
 
 ![image](https://github.com/cxnaive/USB2CAN_cx/blob/master/pics/swd.png)
+
+# 特别感谢以下项目
+[rm_usb2can](https://github.com/rm-controls/rm_usb2can)
+
+[candleLight_fw](https://github.com/candle-usb/candleLight_fw)
