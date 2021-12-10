@@ -2,24 +2,96 @@
 FileName = USB2CAN.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : USB2CAN.GM1
+Generating : Top Layer
+      File : USB2CAN.GTL
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : USB2CAN.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : USB2CAN.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
     D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : USB2CAN.GBO
+Generating : Top Paste
+      File : USB2CAN.GTP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
 *************************************************************
 
 *************************************************************
@@ -37,22 +109,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : USB2CAN.GBS
+Generating : Bottom Overlay
+      File : USB2CAN.GBO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : USB2CAN.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
 *************************************************************
 
 *************************************************************
@@ -86,49 +160,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : USB2CAN.GTP
+Generating : Bottom Solder
+      File : USB2CAN.GBS
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : USB2CAN.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : USB2CAN.GBL
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -136,45 +171,10 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D13
-    D15
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : USB2CAN.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 

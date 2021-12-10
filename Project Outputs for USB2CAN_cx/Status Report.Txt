@@ -1,13 +1,21 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [USB2CAN_cx.PrjPcb]
-   Generated File[USB2CAN-RoundHoles.TXT]
-   Generated File[USB2CAN-SlotHoles.TXT]
-   Generated File[USB2CAN.LDP]
-   Generated File[USB2CAN.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [USB2CAN_cx.PrjPcb]
+   Generated File[USB2CAN.GTO]
+   Generated File[USB2CAN.GTP]
+   Generated File[USB2CAN.GTS]
+   Generated File[USB2CAN.GTL]
+   Generated File[USB2CAN.GBL]
+   Generated File[USB2CAN.GBS]
+   Generated File[USB2CAN.GBP]
+   Generated File[USB2CAN.GBO]
+   Generated File[USB2CAN.GM1]
+   Generated File[USB2CAN.RUL]
+   Generated File[USB2CAN.EXTREP]
+   Generated File[USB2CAN.REP]
 
 
-Files Generated   : 4
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 17:05:03 On 2021/12/10
+Finished Output Generation At 18:45:32 On 2021/12/10
